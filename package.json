@@ -1,7 +1,7 @@
 {
   "name": "my-react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/NoahJRalph/my-react-portfolio",
+  "homepage": "https://noahjralph.github.io/my-react-portfolio/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -19,7 +19,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build"
+    "deploy": "gh-pages -b gh-pages -d build",
+    "fixdeploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

@@ -1,4 +1,4 @@
-# just-another-text-editor
+# my-react-portfolio
 
 ![This project's protection license.](https://img.shields.io/badge/license-MIT-blue)
 
