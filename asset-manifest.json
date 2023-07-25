@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NoahJRalph/my-react-portfolio/static/css/main.3b1682d0.css",
-    "main.js": "/NoahJRalph/my-react-portfolio/static/js/main.f412cbee.js",
-    "static/js/787.56d9acf9.chunk.js": "/NoahJRalph/my-react-portfolio/static/js/787.56d9acf9.chunk.js",
-    "static/media/profilePic.png": "/NoahJRalph/my-react-portfolio/static/media/profilePic.da057f441c000259ff68.png",
-    "static/media/hp-spell-book.png": "/NoahJRalph/my-react-portfolio/static/media/hp-spell-book.c3411d6d0f9a15d5fba3.png",
-    "static/media/portfolio.png": "/NoahJRalph/my-react-portfolio/static/media/portfolio.45e1abeb2cfd240f4eeb.png",
-    "static/media/horiseon.png": "/NoahJRalph/my-react-portfolio/static/media/horiseon.0d9b3d0de88dc6319366.png",
-    "static/media/brainSync.png": "/NoahJRalph/my-react-portfolio/static/media/brainSync.c15b764809c5a4f674f1.png",
-    "index.html": "/NoahJRalph/my-react-portfolio/index.html",
-    "main.3b1682d0.css.map": "/NoahJRalph/my-react-portfolio/static/css/main.3b1682d0.css.map",
-    "main.f412cbee.js.map": "/NoahJRalph/my-react-portfolio/static/js/main.f412cbee.js.map",
-    "787.56d9acf9.chunk.js.map": "/NoahJRalph/my-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
+    "main.css": "/my-react-portfolio/static/css/main.3b1682d0.css",
+    "main.js": "/my-react-portfolio/static/js/main.18677dba.js",
+    "static/js/787.56d9acf9.chunk.js": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js",
+    "static/media/profilePic.png": "/my-react-portfolio/static/media/profilePic.da057f441c000259ff68.png",
+    "static/media/hp-spell-book.png": "/my-react-portfolio/static/media/hp-spell-book.c3411d6d0f9a15d5fba3.png",
+    "static/media/portfolio.png": "/my-react-portfolio/static/media/portfolio.45e1abeb2cfd240f4eeb.png",
+    "static/media/horiseon.png": "/my-react-portfolio/static/media/horiseon.0d9b3d0de88dc6319366.png",
+    "static/media/brainSync.png": "/my-react-portfolio/static/media/brainSync.c15b764809c5a4f674f1.png",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.3b1682d0.css.map": "/my-react-portfolio/static/css/main.3b1682d0.css.map",
+    "main.18677dba.js.map": "/my-react-portfolio/static/js/main.18677dba.js.map",
+    "787.56d9acf9.chunk.js.map": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b1682d0.css",
-    "static/js/main.f412cbee.js"
+    "static/js/main.18677dba.js"
   ]
 }
