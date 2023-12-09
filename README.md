@@ -14,9 +14,11 @@
 
 ## Description
 
-My very own website portfolio; Allowing interested parties to gaze upon my HTML, CSS, JS, React, and Node.js skill, then navigate to my completed works to properly demonstrate my front-end web development capability. Made using the criteria from Module 20 of my edX Web Development bootcamp. I made it as compact as possible within my tight time limit I had.
+My very own website portfolio; Allowing interested parties to gaze upon my HTML, CSS, JS, React, and Node.js skill, then navigate to my completed works to properly demonstrate my front-end web development capability. Made using the criteria from Module 20 of my U. of O. edX Web Development bootcamp. I made it as compact as possible within my tight time limit I had.
 
 The application was built using HTML, JS, CSS, HTML, React, and Node.js, and was deployed using Github Pages.
+
+This portfolio is outdated and behind compared to my current HTML/CSS-based portfolio located [Here.](https://noahjralph.github.io/my-portfolio/)
 
 ## Installation
 
