@@ -18,7 +18,7 @@ My very own website portfolio; Allowing interested parties to gaze upon my HTML,
 
 The application was built using HTML, JS, CSS, HTML, React, and Node.js, and was deployed using Github Pages.
 
-This portfolio is outdated and behind compared to my current HTML/CSS-based portfolio located [Here.](https://noahjralph.github.io/my-portfolio/)
+This portfolio is built on an outdated built of my current simpler and more efficient updated HTML/CSS-based portfolio located [Here.](https://noahjralph.github.io/my-portfolio/)
 
 ## Installation
 
